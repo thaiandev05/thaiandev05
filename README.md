@@ -30,7 +30,7 @@
 
 ## 📬 Connect with me
 - Website: [https://www.thaiandev.online/](https://www.thaiandev.online/)  
-- Email: `your.email@example.com`
+- Email: `thaianthedev@gmail.com`
 
 ---
 
